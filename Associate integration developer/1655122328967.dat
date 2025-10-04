@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Account__c>
+  <Id>a6f0q000000PSlMAAW</Id>
+  <OwnerId>00540000003O16YAAS</OwnerId>
+  <IsDeleted>false</IsDeleted>
+  <Name>Edge Communications</Name>
+  <CurrencyIsoCode>USD</CurrencyIsoCode>
+  <CreatedDate>2022-06-13T12:01:24.000Z</CreatedDate>
+  <CreatedById>00540000003O16YAAS</CreatedById>
+  <LastModifiedDate>2022-06-13T12:01:24.000Z</LastModifiedDate>
+  <LastModifiedById>00540000003O16YAAS</LastModifiedById>
+  <SystemModstamp>2022-06-13T12:01:24.000Z</SystemModstamp>
+  <LastViewedDate />
+  <LastReferencedDate />
+  <ConnectionReceivedId />
+  <ConnectionSentId />
+  <Account_Number__c>540813</Account_Number__c>
+  <Description_del__c>Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.</Description_del__c>
+  <Phone__c>(512) 757-6000</Phone__c>
+  <Rating__c>Hot</Rating__c>
+  <Type__c>Prospect</Type__c>
+  <Website__c>www.edgecomm.com</Website__c>
+  <Annual_Revenue__c>1600000.0</Annual_Revenue__c>
+  <Account_Currency__c>U.S.Dollar</Account_Currency__c>
+  <Account_Site__c />
+  <Industry__c>Electronics</Industry__c>
+  <Billing_Address__c>312 Constitution Place</Billing_Address__c>
+  <SLA_Expiration_Date__c>2025-02-04</SLA_Expiration_Date__c>
+  <Number_of_locations__c>2.0</Number_of_locations__c>
+  <Customer_Proiority__c>Medium</Customer_Proiority__c>
+  <Active__c>Yes</Active__c>
+  <Custom_Links__c>Billing</Custom_Links__c>
+  <Fax__c>(512) 757-6250</Fax__c>
+  <Ownership__c>Public</Ownership__c>
+  <Employees__c>1000.0</Employees__c>
+  <SIC_Code__c>Gold</SIC_Code__c>
+  <Upsell_Opportunity__c>Maybe</Upsell_Opportunity__c>
+  <Shipping_Address__c>312 Constitution Place</Shipping_Address__c>
+  <SLA_Serial_Number__c>2657.0</SLA_Serial_Number__c>
+  <SLA__c>Bronze</SLA__c>
+  <Billing_City__c>Austin</Billing_City__c>
+  <Billing_State__c>TX</Billing_State__c>
+  <ZipCode__c>78767.0</ZipCode__c>
+  <Billing_Address_Country__c>USA</Billing_Address_Country__c>
+  <Shipping_Address_City__c>Austin</Shipping_Address_City__c>
+  <Shipping_Address_State__c>TX</Shipping_Address_State__c>
+  <Shipping_Address_Country__c>USA</Shipping_Address_Country__c>
+  <Shipping_Address_Zipcode__c>78767</Shipping_Address_Zipcode__c>
+  <DB_External_Contact_ID__c />
+  <Contacts__r>
+    <Contact__c>
+      <Id>a6g0q000001HPPkAAO</Id>
+      <OwnerId>00540000003NyRJAA0</OwnerId>
+      <IsDeleted>false</IsDeleted>
+      <Name>Mr. Sean Forbes</Name>
+      <CurrencyIsoCode>USD</CurrencyIsoCode>
+      <CreatedDate>2022-06-13T12:01:24.000Z</CreatedDate>
+      <CreatedById>00540000003O16YAAS</CreatedById>
+      <LastModifiedDate>2022-06-13T12:01:24.000Z</LastModifiedDate>
+      <LastModifiedById>00540000003O16YAAS</LastModifiedById>
+      <SystemModstamp>2022-06-13T12:01:24.000Z</SystemModstamp>
+      <LastViewedDate />
+      <LastReferencedDate />
+      <ConnectionReceivedId />
+      <ConnectionSentId />
+      <FK__Account__c>a6f0q000000PSlMAAW</FK__Account__c>
+      <Birthdate__c>1943-03-19</Birthdate__c>
+      <Do_Not_Call__c>false</Do_Not_Call__c>
+      <Email__c>sean@edge.com</Email__c>
+      <Title__c>CFO</Title__c>
+      <Lead_Source__c>Ads-Content</Lead_Source__c>
+      <Mailing_Address__c>312 Constitution Place Austin, TX 78767 USA</Mailing_Address__c>
+      <Language__c>English</Language__c>
+      <Description__c />
+      <Phone__c>5.127576111E9</Phone__c>
+      <Home_Phone__c />
+      <Mobile__c>5.127576112E9</Mobile__c>
+      <Other_Phone__c />
+      <Fax__c>5.127576113E9</Fax__c>
+      <Asst_Phone__c />
+      <Other_Address__c />
+      <Level__c>Secondary</Level__c>
+      <Department__c>Technology</Department__c>
+      <DB_External_Contact_ID__c>F-99</DB_External_Contact_ID__c>
+    </Contact__c>
+  </Contacts__r>
+</Account__c>
+

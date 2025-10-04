@@ -1,0 +1,26 @@
+Developer 1 - SaaS Training 
+
+SQL Statements
+
+Exercise 14: Add a Decision shape to query the database
+
+SELECT COUNT(*)
+FROM CUSTOMER
+WHERE NAME = ?
+AND USER_ID = 'My Name'
+
+Exercise 16: Create a database read process
+
+SELECT DISTINCT CUSTOMER_ID, NAME, PHONE
+FROM CUSTOMER
+WHERE MODIFIED_DATE >= ?
+AND USER_ID = 'My Name'
+AND COMPANY_KEY = '59'
+AND NOTIFY_STATUS = 0
+
+Exercise 24: Add a SQL command
+
+UPDATE CUSTOMER
+SET NOTIFY_STATUS=1
+WHERE CUSTOMER_ID = ?
+AND USER_ID = 'My Name'

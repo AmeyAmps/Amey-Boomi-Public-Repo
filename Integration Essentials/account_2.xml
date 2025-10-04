@@ -1,0 +1,20 @@
+<Account>
+  <CompanyID>998572483</CompanyID>
+  <CompanyName>Pasko Communications</CompanyName>
+  <Website>http://paskocommunications.org</Website>
+  <StreetAddress1>123 Greenough Boulevard</StreetAddress1>
+  <StreetAddress2>Apartment 1</StreetAddress2>
+  <City>Philadelphia</City>
+  <State>pa</State>
+  <PostalCode>19127</PostalCode>
+  <Country>USA</Country>
+  <Phone>610-854-0700</Phone>
+  <Industry>Marketing</Industry>
+  <ContactList>
+    <Contact>
+      <FirstName>John</FirstName>
+      <LastName>Doemann</LastName>
+      <Email>jdoemann@paskocommunications.org</Email>
+    </Contact>
+  </ContactList>
+</Account>
